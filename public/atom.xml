@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Moe's Code]]></title>
+  <link href="http://moefang.github.com/atom.xml" rel="self"/>
+  <link href="http://moefang.github.com/"/>
+  <updated>2012-09-06T15:50:54+10:00</updated>
+  <id>http://moefang.github.com/</id>
+  <author>
+    <name><![CDATA[Moe]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://moefang.github.com/blog/test/"/>
+    <updated>2012-09-06T15:07:00+10:00</updated>
+    <id>http://moefang.github.com/blog/test</id>
+    <content type="html"><![CDATA[<blockquote><p>&#8220;Stay hungry.&#8221;</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>

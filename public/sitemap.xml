@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://moefang.github.com/blog/test/</loc>
+        <lastmod>2012-09-06T15:08:40+10:00</lastmod>
+    </url>
+    <url>
+        <loc>http://moefang.github.com/</loc>
+        <lastmod>2012-09-06T15:08:40+10:00</lastmod>
+    </url>
+    <url>
+        <loc>http://moefang.github.com/mwiki/</loc>
+        <lastmod>2012-09-06T14:35:30+10:00</lastmod>
+    </url>
+    <url>
+        <loc>http://moefang.github.com/mwiki/vim/</loc>
+        <lastmod>2012-09-06T15:04:16+10:00</lastmod>
+    </url>
+    <url>
+        <loc>http://moefang.github.com/blog/archives/</loc>
+        <lastmod>2012-09-06T15:08:40+10:00</lastmod>
+    </url>
+</urlset>
